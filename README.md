@@ -1,9 +1,10 @@
 # StayLemon 🍋🐶
 Pygame character animation mechanics
 
-## How to play
+## How to use
 - Clone this repository and cd into code
 - Run the main.py file
+- Use arrow keys or WASD keys to move around
 
 ## Preview
 ![1](https://github.com/user-attachments/assets/4c8d034f-3dfe-4e0f-9bd2-ad553d022319)
