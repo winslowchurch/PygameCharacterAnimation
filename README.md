@@ -1,5 +1,4 @@
-# StayLemon 🍋🐶
-Pygame character animation mechanics
+# Pygame character animation mechanics 🍋🐶
 
 ## How to use
 - Clone this repository and cd into code
